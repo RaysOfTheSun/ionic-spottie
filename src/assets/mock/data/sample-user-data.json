@@ -1,0 +1,48 @@
+{
+  "library": [
+    {
+      "id": "4d81616b-e3d9-4732-a68a-4e8ff0a6b6f1",
+      "name": "Our Beloved Summer OST",
+      "type": "PLST",
+      "pinned": true,
+      "creator": "Cosmic Vibes",
+      "downloaded": true,
+      "shortDesc": "",
+      "coverArtUrl": "assets/mock/our-beloved-summer-ost-cover.webp",
+      "coverArtThumbUrl": "assets/mock/our-beloved-summer-ost-cover.webp"
+    },
+    {
+      "id": "f7a8bd6f-dd37-4448-a9d6-a7d38f8273bf",
+      "name": "No Stupid Questions",
+      "type": "PDCT",
+      "pinned": true,
+      "creator": "Cosmic Vibes",
+      "downloaded": true,
+      "shortDesc": "",
+      "coverArtUrl": "",
+      "coverArtThumbUrl": ""
+    },
+    {
+      "id": "a9f57f7a-0f85-44a1-b114-9ffb55275109",
+      "name": "Leaves",
+      "type": "ALBM",
+      "pinned": true,
+      "creator": "Ben&Ben",
+      "downloaded": true,
+      "shortDesc": "",
+      "coverArtUrl": "",
+      "coverArtThumbUrl": ""
+    },
+    {
+      "id": "1ee41ff7-8b35-46e0-88e4-09056a6072f4",
+      "name": "No.6 Collaboration Project",
+      "type": "ALBM",
+      "pinned": true,
+      "creator": "Ed Sheeran",
+      "downloaded": true,
+      "shortDesc": "",
+      "coverArtUrl": "",
+      "coverArtThumbUrl": ""
+    }
+  ]
+}
