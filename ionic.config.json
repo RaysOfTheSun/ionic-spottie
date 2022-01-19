@@ -1,0 +1,7 @@
+{
+  "name": "spotie",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
